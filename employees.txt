@@ -1,0 +1,6 @@
+ID    Name                 Salary     Position        Department     
+--------------------------------------------------------
+56    sakshim              30000.00   Manager         ds             
+45    gayatri              56.00      Intern          ds             
+126   gggg                 34567.00   Developer       nhnnnn         
+145   234                  35000.00   Intern          cse            
